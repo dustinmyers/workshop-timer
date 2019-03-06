@@ -33,7 +33,7 @@ function App() {
   );
 }
 
-const end = moment('2019-03-05 14:00:00', 'YYYY-MM-DD kk:mm:ss');
+const end = moment('2019-03-07 02:00:00', 'YYYY-MM-DD kk:mm:ss');
 
 class Header extends React.Component {
   state = {
